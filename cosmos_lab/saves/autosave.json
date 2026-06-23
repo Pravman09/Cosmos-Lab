@@ -1,0 +1,67 @@
+{
+  "app": "Cosmos Lab",
+  "time": 361692.0,
+  "paused": false,
+  "time_speed_index": 2,
+  "gravity_multiplier": 1.0,
+  "collision_enabled": true,
+  "collision_mode": "Merge",
+  "trails_enabled": true,
+  "labels_enabled": true,
+  "velocity_vectors": true,
+  "gravity_indicators": false,
+  "predictions_enabled": true,
+  "selected_id": "25dec0da0591490fae4e9dee403d9c48",
+  "bodies": [
+    {
+      "id": "25dec0da0591490fae4e9dee403d9c48",
+      "name": "Earth",
+      "type": "Planet",
+      "mass": 5.972167867791379e+24,
+      "radius": 6378100.0,
+      "density": 5514.0,
+      "temperature": 288.0,
+      "position": [
+        2001576.5804667822,
+        -3861603.3401001235
+      ],
+      "velocity": [
+        10.176027958238691,
+        -7.179347071534272
+      ],
+      "color": [
+        82,
+        145,
+        240
+      ],
+      "frozen": false,
+      "damage": 0.0,
+      "created_at": 0.0
+    },
+    {
+      "id": "22f87084b0e846d6b49c6203cf778410",
+      "name": "Moon",
+      "type": "Moon",
+      "mass": 7.342e+22,
+      "radius": 1737400.0,
+      "density": 3344.0,
+      "temperature": 220.0,
+      "position": [
+        221586715.62534046,
+        314112549.52195317
+      ],
+      "velocity": [
+        -827.7437645592455,
+        583.9861875829371
+      ],
+      "color": [
+        188,
+        190,
+        198
+      ],
+      "frozen": false,
+      "damage": 0.0,
+      "created_at": 0.0
+    }
+  ]
+}
