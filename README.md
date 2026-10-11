@@ -14,6 +14,10 @@ The simulator uses real physical units and an N-body physics engine to model gra
 - JSON for save/load files
 - Object-oriented multi-file architecture
 
+## RECORDING
+
+https://github.com/Pravman09/Cosmos-Lab/blob/main/Cosmos%20Lab%202026-06-27%2008-36-25.mp4
+
 ## Project Structure
 
 ```text
