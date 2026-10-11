@@ -16,7 +16,13 @@ The simulator uses real physical units and an N-body physics engine to model gra
 
 ## RECORDING
 
-https://github.com/Pravman09/Cosmos-Lab/blob/main/Cosmos%20Lab%202026-06-27%2008-36-25.mp4
+
+
+https://github.com/user-attachments/assets/096cd4c9-0268-4149-b6a3-317647e9564a
+
+
+
+
 
 ## Project Structure
 
